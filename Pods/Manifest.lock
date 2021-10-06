@@ -1,0 +1,52 @@
+PODS:
+  - IMBeeHive (0.1.2)
+  - IMChatMoudle (0.1.0):
+    - IMBeeHive
+  - IMDynamicMoudle (0.1.0):
+    - IMBeeHive
+  - IMHomeMoudle (0.1.0):
+    - IMBeeHive
+  - IMLuanchMoudle (0.1.0):
+    - IMBeeHive
+    - IMChatMoudle
+    - IMDynamicMoudle
+    - IMHomeMoudle
+    - IMMineMoudle
+  - IMMineMoudle (0.1.0):
+    - IMBeeHive
+
+DEPENDENCIES:
+  - IMBeeHive
+  - IMChatMoudle (from `IMChatMoudle`)
+  - IMDynamicMoudle (from `IMDynamicMoudle`)
+  - IMHomeMoudle (from `IMHomeMoudle`)
+  - IMLuanchMoudle (from `IMLuanchMoudle`)
+  - IMMineMoudle (from `IMMineMoudle`)
+
+SPEC REPOS:
+  trunk:
+    - IMBeeHive
+
+EXTERNAL SOURCES:
+  IMChatMoudle:
+    :path: IMChatMoudle
+  IMDynamicMoudle:
+    :path: IMDynamicMoudle
+  IMHomeMoudle:
+    :path: IMHomeMoudle
+  IMLuanchMoudle:
+    :path: IMLuanchMoudle
+  IMMineMoudle:
+    :path: IMMineMoudle
+
+SPEC CHECKSUMS:
+  IMBeeHive: 9a21bde771a5d6ccec78b8c517b08a50727cde04
+  IMChatMoudle: f2c70b8c88f228dfd73b8d3f6e8b14e5353d47ea
+  IMDynamicMoudle: 94757532cb2149b6f12fa4327e1ce575e37a041b
+  IMHomeMoudle: 05d255837e8aea30c947cd8fa01adcc02dc1bec2
+  IMLuanchMoudle: 094e4f21f53f88ba3d16e3ddca032c16d752b8b7
+  IMMineMoudle: b7c40a62210d9f6e6160e93bb9c324acbd4f9e15
+
+PODFILE CHECKSUM: 9ded0f2b5d52c3522a490aeaffa920c3ca1fac26
+
+COCOAPODS: 1.10.2
