@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33F903A5E7FF7A0E8ED161F951461939"
-               BuildableName = "Pods-IMAudioLive.framework"
+               BuildableName = "Pods_IMAudioLive.framework"
                BlueprintName = "Pods-IMAudioLive"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

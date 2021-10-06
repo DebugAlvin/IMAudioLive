@@ -1,0 +1,6 @@
+framework module Pods_IMHomeMoudle_Example {
+  umbrella header "Pods-IMHomeMoudle_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

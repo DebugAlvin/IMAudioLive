@@ -1,0 +1,6 @@
+framework module Pods_IMDynamicMoudle_Tests {
+  umbrella header "Pods-IMDynamicMoudle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

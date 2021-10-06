@@ -1,0 +1,16 @@
+PODS:
+  - IMChatMoudle (0.1.0)
+
+DEPENDENCIES:
+  - IMChatMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  IMChatMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMChatMoudle: 8d0785d50c3e275f7440f31ee5c95d3b7859ed93
+
+PODFILE CHECKSUM: ba6f28867170ebbb8a48e005c7f19b7004245926
+
+COCOAPODS: 1.10.2

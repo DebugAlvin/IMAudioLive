@@ -1,0 +1,16 @@
+PODS:
+  - IMHomeMoudle (0.1.0)
+
+DEPENDENCIES:
+  - IMHomeMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  IMHomeMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMHomeMoudle: fc28b0583f4daf8e1f0e990ee71a73e601712370
+
+PODFILE CHECKSUM: 16af72a25ebffb06fabbf67b333d915d0659fd5d
+
+COCOAPODS: 1.10.2

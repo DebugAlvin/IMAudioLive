@@ -1,0 +1,6 @@
+framework module Pods_IMLuanchMoudle_Tests {
+  umbrella header "Pods-IMLuanchMoudle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

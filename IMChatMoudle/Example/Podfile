@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'IMChatMoudle_Example' do
+  pod 'IMChatMoudle', :path => '../'
+
+  target 'IMChatMoudle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

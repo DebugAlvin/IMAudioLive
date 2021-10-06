@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'IMHomeMoudle_Example' do
+  pod 'IMHomeMoudle', :path => '../'
+
+  target 'IMHomeMoudle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

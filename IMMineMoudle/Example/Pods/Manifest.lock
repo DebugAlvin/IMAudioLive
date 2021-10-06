@@ -1,0 +1,16 @@
+PODS:
+  - IMMineMoudle (0.1.0)
+
+DEPENDENCIES:
+  - IMMineMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  IMMineMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMMineMoudle: d94fa093c1503bffa18c55fc5ebb88c072491c13
+
+PODFILE CHECKSUM: 11b59971d741f3ed2e1596b09351d9cb40777f54
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,6 @@
+framework module Pods_IMChatMoudle_Example {
+  umbrella header "Pods-IMChatMoudle_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

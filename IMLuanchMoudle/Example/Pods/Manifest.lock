@@ -1,0 +1,16 @@
+PODS:
+  - IMLuanchMoudle (0.1.0)
+
+DEPENDENCIES:
+  - IMLuanchMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  IMLuanchMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMLuanchMoudle: e110226dcdda44956f2331c9910051f620ddf833
+
+PODFILE CHECKSUM: f51edca8be803ee2c64aaa8ad180f5b2c9711f31
+
+COCOAPODS: 1.10.2

@@ -1,0 +1,21 @@
+PODS:
+  - IMBeeHive (0.1.0)
+  - IMDynamicMoudle (0.1.0)
+
+DEPENDENCIES:
+  - IMBeeHive (from `../../IMBeeHive`)
+  - IMDynamicMoudle (from `../`)
+
+EXTERNAL SOURCES:
+  IMBeeHive:
+    :path: "../../IMBeeHive"
+  IMDynamicMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IMBeeHive: 95589cc5a2bae3de99e456324a6fc7158418eeb8
+  IMDynamicMoudle: 6a1822268cfdc601152c25945d8b455a98f065e6
+
+PODFILE CHECKSUM: 65b5dedc0b9390ad29b43b3c3a22c8f640235558
+
+COCOAPODS: 1.10.2
