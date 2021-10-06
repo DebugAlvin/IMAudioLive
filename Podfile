@@ -8,5 +8,5 @@ target 'IMAudioLive' do
   pod 'IMChatMoudle', :path => 'IMChatMoudle'
   pod 'IMMineMoudle', :path => 'IMMineMoudle'
   pod 'IMHomeMoudle', :path => 'IMHomeMoudle'
-  pod 'IMBeeHive', :path => '../'
+  pod 'IMBeeHive'
 end
